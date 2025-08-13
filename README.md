@@ -1,7 +1,7 @@
 # Active-Directory
 <h2>Video Demonstration</h2>
 
-- ### [How to Deploy on-premises Active Directory within Azure Compute](https://youtu.be/9k8dZXN6pkY?si=jf4zzdIDKZXnOxFw)
+- ### [Azure Active Directory](https://youtu.be/9k8dZXN6pkY?si=jf4zzdIDKZXnOxFw)
 
 ## Objective
   
